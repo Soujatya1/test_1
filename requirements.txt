@@ -4,4 +4,4 @@ faiss-cpu
 PyPDF2
 langchain_community
 langchain_groq
-sentence_transformers
+sentence-transformers
