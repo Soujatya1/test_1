@@ -1,2 +1,5 @@
 streamlit
-pandas
+langchain
+faiss-cpu
+PyPDF2
+
